@@ -6,6 +6,8 @@
   * Modified textmesh pro bitmap array
 * Rodin Atlas.png
   * Modified textmesh pro bitmap atlas
+* Rodin Atlas.tex
+  * Modified texture file for UnityEX
 
 # Known Issue
 * Many kanji characters is missing because replacement with hangul
